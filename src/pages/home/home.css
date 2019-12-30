@@ -1,0 +1,27 @@
+
+#home-root{
+    width: 100%;
+    height: 100%;
+}
+
+.home-aside{
+    max-width: 200px;
+    min-width: 200px;
+    width: 200px;
+    height: 100%;
+   
+}
+
+ 
+#home-root .ant-layout{
+    height: 100%;
+    
+}
+ 
+.logo{
+    text-align: center;
+    padding: 10px 0;
+}
+.logo a {
+    display: inline-block;
+}
